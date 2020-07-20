@@ -1,4 +1,6 @@
-# Tweede Kamer speeches
+# Dutch Parlement speeches
+
+![](kamer.png)
 
 Alle Tweede Kamer parlementaire debatten van 1995 t/m juni-2019 zijn in een data set verzameld. Dat is het werk van:
 
