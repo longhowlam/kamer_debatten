@@ -15,5 +15,7 @@ The original data on the webiste was an R rds file, I imported that in R and sav
 * Metadata anlyse
 * Topic modeling
 * Word2Vec
-* CLassificatie naar partij
+* Text Classificatie model (Target is politieke partij)
+* TF Sentence Embedding
+* Transformers text generation
 * en veel meer......
