@@ -17,5 +17,5 @@ The original data on the webiste was an R rds file, I imported that in R and sav
 * Word2Vec
 * Text Classificatie model (Target is politieke partij)
 * TF Sentence Embedding
-* Transformers text generation
+* Transformers text generation, [see here](https://github.com/huggingface/transformers)
 * en veel meer......
