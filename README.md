@@ -11,7 +11,7 @@ Voor meer informatie [zie deze site](https://dataverse.harvard.edu/dataset.xhtml
 De data was verzameld in een R rds file. Deze heb ik in een csv file gezet en gezipped. De zip is te groot om in zijn geheel op GitHub te zetten, dus heb ik de command line tool `split` gebruikt om 24 Mb chuncks te maken: CorpusTweedeKamera .... CorpusTweedekamerl. Deze kan je weer concatenaten tot 1 zip en inlezen.
 
 
-## Analyze mogelijkheden
+### **Analyze mogelijkheden**
 
 Er zijn tal van analyze mogelijkheden op deze data set:
 
@@ -23,8 +23,24 @@ Er zijn tal van analyze mogelijkheden op deze data set:
 * Transformers text generation, [see here](https://github.com/huggingface/transformers)
 * en nog andere dingen
 
-## Metadata analyse
+***
+
+***
+
+
+# Metadata analyse
 
 De parlement-speech data beslaat een periode van januari 1995 tot en met juni 2019. Onderstaande grafiek geeft het aantal speeches per dag aan.
 
 ![](images/aantal_per_dag.png)
+
+Het schommelt rond de 500 per dag in de begin jaren waarna het iets oploopt.
+
+De top sprekers worden weergegeven in de volgende grafiek. Het zijn Rutte, Halsema en Pechthold, gevolgd door anderen.....
+
+![](images/per_spreker.png)
+
+Als we kijken naar het gemiddeld aantal woorden van de speeches per partij zien we de 'gelovige' partijen SGP en GPV er boven uitsteken met 211 en 214 woorden gemiddeld.  
+
+![](images/aantal_woorden.png)
+
