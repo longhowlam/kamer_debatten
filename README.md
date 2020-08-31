@@ -2,7 +2,7 @@
 
 ![](images/kamer.png)
 
-Alle Tweede Kamer parlementaire debatten van 1995 t/m juni-2019 zijn in een data set verzameld. Dat is het werk van:
+Alle Tweede Kamer parlementaire debatten van januari-1995 t/m juni-2019 zijn in een data set verzameld. Dat is het werk van:
 
 **Rauh, Christian; Schwalbach**, Jan, 2020, "0_RauhSchwalbach_2020_ParlSpeechV2_ReleaseNote.pdf", The ParlSpeech V2 data set: Full-text corpora of 6.3 million parliamentary speeches in the key legislative chambers of nine representative democracies, https://doi.org/10.7910/DVN/L4OAKN/C2TWCZ, Harvard Dataverse, V1
 
@@ -24,3 +24,7 @@ Er zijn tal van analyze mogelijkheden op deze data set:
 * en nog andere dingen
 
 ## Metadata analyse
+
+De parlement-speech data beslaat een periode van januari 1995 tot en met juni 2019. Onderstaande grafiek geeft het aantal speeches per dag aan.
+
+![](images/aantal_per_dag.png)
