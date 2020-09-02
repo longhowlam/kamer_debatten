@@ -19,7 +19,7 @@ De data set bestaat uit ruim 1.1 mln. regels. Elke regel bevat de naam van de pa
 Er zijn tal van analyze mogelijkheden op deze data set:
 
 * Metadata analyse
-* Topic modeling
+* Topic modeling [see notebook](https://nbviewer.jupyter.org/github/longhowlam/kamer_debatten/blob/master/tweede_kamer_Topic_Modeling.ipynb)
 * Word2Vec
 * Text Classificatie model (Target is politieke partij)
 * TF Sentence Embedding
@@ -74,3 +74,7 @@ Diverse onderwerpen komen naar voren zoals:
 * Belastingdienst toeslagen
 
 Zie hier voor [interactieve versie](https://longhowlam.github.io/kamer_debatten/topics_lda.html)
+
+### **top2vec**
+
+
