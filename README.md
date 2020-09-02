@@ -59,3 +59,18 @@ Als we kijken naar het gemiddeld aantal woorden van de speeches per partij zien 
 
 ![](images/aantal_woorden.png)
 
+
+# Topic modeling
+
+### **LDA**
+
+Met 'klassieke' Latent Dirichlet Allocation kan je een eerste inzicht krijgen in de topics die er zijn in de vele kamer speeches. 
+Een LDA met 25 topics is getraind, zie onderstaande figuur.
+
+![](images/lda_topics.png)
+
+Diverse onderwerpen komen naar voren zoals:
+
+* Onderwijs,
+* Gevangenissen,
+* Belastingdienst toeslagen
