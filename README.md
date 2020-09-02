@@ -72,3 +72,5 @@ Diverse onderwerpen komen naar voren zoals:
 * Onderwijs,
 * Gevangenissen,
 * Belastingdienst toeslagen
+
+Zie hier voor [interactieve versie](https://longhowlam.github.io/kamer_debatten/topics_lda.html)
