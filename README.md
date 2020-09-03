@@ -78,3 +78,4 @@ Zie hier voor [interactieve versie](https://longhowlam.github.io/kamer_debatten/
 ### **top2vec**
 
 
+Zie hier 2D umapped doc2vec embeddings [deze plotly plot](https://longhowlam.github.io/kamer_debatten/kamer_speeches_umapped.html)
