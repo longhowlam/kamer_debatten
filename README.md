@@ -76,5 +76,11 @@ Zie hier voor [interactieve versie](https://longhowlam.github.io/kamer_debatten/
 
 ### **top2vec**
 
+Bij top2vec word eerst een doc2vec model getrained, elk document (of elke speech in de Tweede Kamer) wordt een hoog dimensionale embedding, 
+dan worden deze mebdiings met UMAP naar een laag dimensionale embedding geprojecteerd. Om vervolgens "dichte" gebieden (de topics) te vinden met behulp van hierarchische DBSCAN.
 
-Zie hier 2D umapped doc2vec embeddings [deze plotly plot](https://longhowlam.github.io/kamer_debatten/kamer_speeches_umapped.html)
+Voor elke "dicht" gebied worden de documenten gevonden die centraal staan in deze gebieden, bijbehorende sleutelwoorden kunnen dan bepaald worden uit de documenten die centraal liggen in de dichte geboeden. Zo kan duiding gegeven worden aan een topic. Zie onderstaande figuur.
+
+![](images/top2vec.png)
+
+Zie hier ook een interactieve 2D umapped doc2vec embeddings [deze plotly plot](https://longhowlam.github.io/kamer_debatten/kamer_speeches_umapped.html)
