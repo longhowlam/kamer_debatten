@@ -7,7 +7,7 @@ Alle Tweede Kamer parlementaire debatten van januari-1995 t/m juni-2019 zijn in 
 
 **Rauh, Christian; Schwalbach**, Jan, 2020, Zie [hier voor de paper](https://doi.org/10.7910/DVN/L4OAKN/C2TWCZ) en [hier voor de data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/L4OAKN).
 
-De data was verzameld in een R rds file, deze heb ik in een csv file gezet en gezipped. De zip is te groot om in zijn geheel op GitHub te zetten, dus heb ik de command line tool `split` gebruikt om 24 Mb chuncks te maken: CorpusTweedeKamera .... CorpusTweedekamerl. Eenmaal van GitHub gehaald kan je deze losse sets weer concatenaten tot 1 zip en inlezen.
+De data was verzameld in een R rds file, deze heb ik in een csv file gezet en gezipped. De zip is te groot om in zijn geheel op GitHub te zetten, dus heb ik de command line tool `split` gebruikt om 24 Mb chuncks te maken: CorpusTweedeKamera ..... CorpusTweedekamerl. Eenmaal van GitHub gehaald kan je deze losse sets weer concatenaten tot 1 zip en inlezen.
 
 De data set bestaat uit ruim 1.1 mln. regels. Elke regel bevat de naam van de partij, de naam van de spreker, de datum en tekst.
 
