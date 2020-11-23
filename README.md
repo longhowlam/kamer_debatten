@@ -1,6 +1,7 @@
 
 ![](images/kamer.png)
 
+
 # Speeches en debat teksten
 
 Alle Tweede Kamer parlementaire debatten van januari-1995 t/m juni-2019 zijn in een data set verzameld. Dat is het werk van:
